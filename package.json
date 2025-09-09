@@ -1,0 +1,15 @@
+{
+  "name": "exemplo-de-codigo-cypress",
+  "version": "1.0.0",
+  "description": "Esse é o exemplo de como deve ficar estruturado o projeto Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
