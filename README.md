@@ -2,3 +2,5 @@
 Esse é o exemplo de como deve ficar estruturado o projeto Cypress após instalação.
 
 Codigo de exemplo está na pasta cypress --> e2e --> [ABTest.cy.js](cypress/e2e/ABTest.cy.js)
+
+Como rodar: escrever no terminal do repositorio `npx cypress open` 
